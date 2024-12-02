@@ -1,11 +1,11 @@
 # Statistical Methods for Environmental Mixtures
 
-Accompanying software material
+Accompanying software material for the [Springer textbook](https://link.springer.com/book/9783031789861)
 
 
 ## Chapter 1
 
-- <a href="dataset2xls">Dataset </a> to replicate results reported in the book
+- <a href="dataset2xls">Dataset </a> to replicate results reported in the book. Additional data documentation can be found at the [NIEHS workshop github page](https://github.com/niehs-prime/2015-NIEHS-MIxtures-Workshop)
 
 ## Chapter 2
 
