@@ -1,6 +1,6 @@
 # Required packages and open data
 
-Packages <- c("readxl","bkmr","ggplot2","car","rms","mgcv")
+Packages <- c("readxl","bkmr","ggplot2","car","rms","mgcv","dplyr")
 lapply(Packages, library, character.only = TRUE)
 
 # Non-linearities
